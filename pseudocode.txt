@@ -1,0 +1,20 @@
+1) Ask the user for a whole number
+Add 5 to the number
+Multiply the number by 2
+Subtract 7 from the number
+Display the answer on the screen
+
+2)Think and select three random numbers 
+Add the three numbers to get the sum of numbers
+Print the sum of the numbers
+
+3) Prompt the user for ten exam scores
+Add the 10 exam scores to get the sum of scores
+Divide the sum of scores by 10
+Display the result to the screen
+
+4)Prompt to get the dimensions of the footprint of the roof
+Convert the dimensions into inches
+Multiply the dimensions by number of inches of rainfall
+Divide the result by 231
+Display the result
