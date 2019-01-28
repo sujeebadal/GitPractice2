@@ -1,20 +1,50 @@
+Algorithms and Pseudocode
+
 1) Ask the user for a whole number
 Add 5 to the number
 Multiply the number by 2
 Subtract 7 from the number
 Display the answer on the screen
 
+Prompt user for a number
+Get a number
+Calculate n1= number+5
+Calculate n2= n1*2
+Calculate n3= n2-7
+Display n3
+
+
 2)Think and select three random numbers 
-Add the three numbers to get the sum of numbers
-Print the sum of the numbers
+Add the three numbers to get the total
+Print the total of the numbers
+
+Prompt user for 3 numbers
+Get 3 random numbers
+Calculate total=number1 + number 2 + number 3
+Print total
+
 
 3) Prompt the user for ten exam scores
 Add the 10 exam scores to get the sum of scores
 Divide the sum of scores by 10
 Display the result to the screen
 
-4)Prompt to get the dimensions of the footprint of the roof
+Prompt user for 10 exam scores
+Get 10 exam scores
+Calculate sum score= score 1+ score 2 + score 3 + score 4 + score 5 + score 6 + score 7+ score 8+ score 9 + score 10
+Calculate Average= sum score/10
+Display Average
+
+
+4)Prompt user to get the dimensions of the footprint of the roof
 Convert the dimensions into inches
 Multiply the dimensions by number of inches of rainfall
 Divide the result by 231
 Display the result
+
+Prompt user to get the dimensions of the footprint of the roof
+Get the dimensions of the footprint of the roof
+Calculate to Convert the dimensions into inches
+Calculate result= roof dimensions by number*inches of rainfall
+Calculate F_result= result/231
+Display F_result

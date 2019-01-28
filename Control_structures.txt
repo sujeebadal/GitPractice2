@@ -1,0 +1,23 @@
+ 1) Read customer’s name, a purchase amount and a tax code
+Prompt user to get tax code
+Get tax code 
+If tax code= 0 then tax exempt= 0%
+If tax code= 1 then state sales tax only= 3%
+If tax code= 2 then federal and state sales tax= 5%
+If tax code= 3 then special sales tax= 7%
+Calculate sales tax
+Calculate total amount due
+Display customer's name, purchase amount, sales tax and total amount due 
+
+
+Input                    Processing                                 Output
+Customer's name          Assign tax codes                           Display customer's name, purchase amount, sales tax and total amount due 
+Purchase amount          Compute sales tax and total amounts due 
+Tax code
+
+
+2) Read employee’s number, pay rate and the number of hours worked in a week
+Validate the pay rate field and the hours worked field
+If valid, compute the employee’s weekly pay and then print it and the input data
+Calculate Weekly pay= hours worked*pay rate
+If more than 35 hours are worked, payment for the overtime hours worked is calculated at time-and-a-half
